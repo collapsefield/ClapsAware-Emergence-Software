@@ -8,9 +8,18 @@
 
 ## Overview
 
-**ClapsAware** (CollapseAware AI) is a middleware + research program that explores *history-dependent* biasing of branch measures (Verrell’s Law) to produce persistent, emergent behaviour in simulated agents and games.
+**ClapsAware** (CollapseAware AI) is a middleware + research program that applies *history-dependent* biasing (Verrell’s Law) to produce persistent, emergent behaviour in simulated agents and environments.
 
-This repository is the public, redacted hub for our research notes, release materials, and outreach assets. We intentionally withhold implementation-level code, runnable toy models, parameter sweeps, and integration recipes from the public drop. Those items are available only under a controlled collaboration (NDA/licensing).
+In plain terms: ClapsAware gives game worlds a short, tunable memory. Rather than every NPC, object, or location behaving only from the current tick, local histories and recorded events subtly bias future choices and states — producing *lived-in* persistence across scenes. The middleware is designer-facing (high-level knobs only in the public materials); implementation and integration details are available under controlled collaboration.
+
+How that looks in practice (examples):
+- NPCs form routines that stick — a guard who repeatedly finds loot at a location will revisit and change patrols, not because a designer scripted it but because the world «remembers» the event.  
+- Landscape and place memory — paths wear where players walk, campfires attract repeat visitors, and abandoned camps accumulate traces that influence future AI choices and spawning.  
+- Social drift — emergent groups form or dissolve as local interactions reinforce or erode affiliations; reputations and local histories influence NPC willingness to trade or assist.  
+- Economies & persistence — marketplaces and resource nodes shift value over time as repeated behaviours bias supply/demand and NPC priorities.  
+- Designer control — all persistence strength, decay, and contextual filters are exposed as safe, high-level knobs so designers tune feel without touching core math.
+
+This repository is the public, redacted hub for our research notes, release materials, and outreach assets. Implementation-level code, runnable toy models, parameter sweeps, and integration recipes are intentionally withheld from the public drop and are available only through controlled collaboration (NDA/licensing).
 
 ---
 
