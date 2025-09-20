@@ -20,7 +20,6 @@ This repository is the public, redacted hub for our research notes, release mate
 - `README.md` — This file.  
 - `RELEASES/` — public release notes and changelog entries (redacted release assets).  
 - `CONTACT.md` — How to request collaboration/partner package (NDA).  
-- `docs/` — High-level diagrams, public figures and conceptual graphics (non-actionable).  
 - `LICENSE` — repository license & IP statement (proprietary; contact for license terms).
 
 > Note: Implementation code, demo builds, integration guides, SDKs, and numerical parameter values are not included in this public repo. To request the partner/dev package, email `marcosrossmail@gmail.com` with subject: `CollapseAware — Collaboration Request`.
