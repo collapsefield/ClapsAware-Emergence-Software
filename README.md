@@ -161,3 +161,7 @@ This project synthesises research-level interpretations of decoherence, unitary-
 ## Final note from the author (short)
 
 Collapse Aware AI is research-first: we publish conceptual framing publicly and protect engineering value for partners. If you’re serious about testing, licensing, or integration, we’ll move quickly once an NDA is in place. — **M.R. (VMR-Core)**
+
+See also → Verrell’s Law – Core Theory
+ • Einstein Informational Tensor Extension
+ • CollapseAware AI Applications
