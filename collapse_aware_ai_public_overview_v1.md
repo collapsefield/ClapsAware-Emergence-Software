@@ -14,11 +14,11 @@ It is intended for cross-pollination, research dialogue, and public outreach.
 
 ### Tracks:
 
-- **Middleware (ClapsAware Emergence Software):**  
+- **Middleware (Collapse Aware Emergence Software):**  
   Licensable engine that layers history-bias onto agent decision processes to produce persistent, emergent NPC/world behaviour in games and simulations.
 
 - **Chatbot Track:**  
-  Collapse-aware conversational AI with memory-weighted response dynamics, observer-bias logic, and adaptive emergence layers for next-generation interactive agents.
+  Collapse-Aware conversational AI with memory-weighted response dynamics, observer-bias logic, and adaptive emergence layers for next-generation interactive agents.
 
 Both tracks use the **JSON Cue-Logic Dashboard** as a sandbox for testing collapse weighting.
 
