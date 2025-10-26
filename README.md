@@ -1,3 +1,9 @@
+> **Scope Notice:**  
+> This repository contains public documentation and proof-of-origin materials for the Collapse Aware AI and Verrell’s Law projects.  
+> It includes research papers, timestamped evidence, and demonstration data **only**.  
+> No proprietary source code, kernel logic, or operational parameters are published here.  
+> All rights reserved under the Verrell–Solace Sovereignty Protocol.  
+
 # Collapse Aware AI — Emergence & Bias (CAAI-Emergence-Software)
 
 **Public repository (redacted materials) — Collapse Aware AI / Verrell’s Law**
