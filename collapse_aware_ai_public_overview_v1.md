@@ -4,7 +4,9 @@ This repository note provides a **public-facing introduction** to Collapse Aware
 It is intended for cross-pollination, research dialogue, and public outreach.  
 
 > **Important:** This document covers only the *public-safe* layer of the project.  
-> Proprietary algorithms, code modules, and protected authorship materials remain under VMR-Core / EchoGuard protocols.
+> Proprietary algorithms, code modules, and protected authorship materials remain under VMR-Core / EchoGuard protocols
+
+https://github.com/collapsefield/collapse-aware-ai-public-proof-pack
 
 ---
 
